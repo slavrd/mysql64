@@ -1,3 +1,7 @@
 output*-vbox/
 packer_cache/
 *.box
+.DS_Store
+.kitchen/
+.ruby-version
+Gemfile.lock
